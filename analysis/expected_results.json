@@ -1,0 +1,16 @@
+{
+  "users": 26747,
+  "channels": 43,
+  "activation": 0.42531872733390663,
+  "experiment": {
+    "n_control": 3731,
+    "n_variant": 3774,
+    "activated_control": 1498,
+    "activated_variant": 1642,
+    "p_control": 0.40150093808630394,
+    "p_variant": 0.4350821409644939,
+    "absolute_lift": 0.03358120287818994,
+    "relative_lift": 0.08363916417792172,
+    "two_sided_p": 0.00319130187605854
+  }
+}
